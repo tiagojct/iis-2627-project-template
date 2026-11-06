@@ -1,0 +1,28 @@
+---
+title: "Title of the presentation"
+subtitle: "Topic of the pair"
+author: "Name 1, Name 2"
+date: today
+lang: en-GB
+format:
+  revealjs:
+    slide-number: true
+    embed-resources: true
+bibliography: references.bib
+csl: vancouver.csl
+---
+
+## Question
+
+## Data
+
+## Methods
+
+## Results
+
+## Limitations
+
+## References
+
+::: {#refs}
+:::

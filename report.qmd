@@ -1,0 +1,44 @@
+---
+title: "Title of the report"
+subtitle: "Topic of the pair"
+author: "Name 1, Name 2"
+date: today
+lang: en-GB
+format:
+  html:
+    embed-resources: true
+    toc: true
+  docx:
+    toc: false
+bibliography: references.bib
+csl: vancouver.csl
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Question
+
+State the question in one or two sentences.
+
+## Data
+
+Describe the dataset: where it comes from, the number of patients and rows, the period and the main variables. The dictionary is in `data/raw/dictionary.csv`.
+
+## Methods
+
+Describe the steps in the order of the scripts: import, cleaning, definitions, summaries. Cite the tools and the sources of the definitions.
+
+## Results
+
+Report the main results with a table or a figure. Write the numbers with inline code, so that they follow the data.
+
+## Limitations
+
+State what the data and the methods cannot show.
+
+## References
+
+::: {#refs}
+:::

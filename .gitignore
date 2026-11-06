@@ -1,0 +1,27 @@
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+.Renviron
+.Rprofile
+
+# Quarto
+.quarto/
+*_files/
+*.quarto_ipynb
+report.html
+report.docx
+presentation.html
+
+# Outputs that the scripts write again
+data/processed/*
+!data/processed/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# Private data and system files
+data/raw/private/
+.DS_Store
+Thumbs.db
