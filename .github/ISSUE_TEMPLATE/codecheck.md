@@ -19,7 +19,7 @@ Steps that I followed, in order.
 
 Exact error messages, and the step where each one appeared.
 
-## Do the numbers and figures agree with the report?
+## Do the numbers and figures agree with "Expected results" in the README?
 
 yes / no / partly. If not, list the differences.
 

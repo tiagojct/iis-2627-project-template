@@ -4,7 +4,7 @@ Read this file before you change anything.
 
 ## Where you work
 
-- Work on a new branch. Never commit to `main`.
+- Work on the branch that the human made for the task. Do not make another branch. If the current branch is `main`, stop and ask the human for a branch. Never commit to `main`.
 - Do one task for each branch. Keep the change small.
 - Do not push, merge or delete a branch. The human does that after reading the diff.
 

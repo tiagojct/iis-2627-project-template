@@ -3,7 +3,7 @@
 Pair: [names]
 Topic: [topic]
 
-If the pair did not use AI, replace this page with one sentence that says so. If it did, add one block for each use.
+Add one block for each use. The agent task of session 5 is required, thus this file has at least one block. If you did not use AI for other tasks, write this sentence below the block: "We did not use generative AI for any other part of this project."
 
 ## Use 1
 

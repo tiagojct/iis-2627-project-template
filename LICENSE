@@ -2,6 +2,8 @@ Licence to choose.
 
 Replace this file in session 3. Suggested choice:
 - Code (the scripts): MIT licence. Text: https://opensource.org/license/mit
-- Text, figures and the report: CC BY 4.0. Text: https://creativecommons.org/licenses/by/4.0/legalcode.txt
+- Text, figures and the report: CC BY 4.0.
 
-Write the licence text, the year and the names of both members. Describe the choice in README.md, under "Licence".
+Replace this text with the text of the MIT licence. Write the year and the names of all members.
+Below it, write one line: "Text, figures and report: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/"
+Describe the choice in README.md, under "Licence".

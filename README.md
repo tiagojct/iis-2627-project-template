@@ -1,6 +1,6 @@
 # [Title of the project]
 
-Pair: [Name 1], [Name 2]. Topic: [topic]. IIS 2026/27, MEDS, FMUP.
+Pair: [Name 1], [Name 2] (a group of three adds [Name 3]). Topic: [topic]. IIS 2026/27, MEDS, FMUP.
 
 All data are synthetic. They describe no real person.
 
@@ -18,9 +18,10 @@ All data are synthetic. They describe no real person.
 | `report.qmd` | The report. Render it to HTML and Word |
 | `presentation.qmd` | The slides of the presentation |
 | `references.bib`, `vancouver.csl` | References and citation style |
-| `questionnaire/` | The data collection form and its export (session 4) |
+| `questionnaire/` | The LimeSurvey form of session 4 (`.lss`) and its export |
 | `ai-declaration.md` | Use of AI in the project |
 | `AGENTS.md` | Rules for an AI agent in this repository |
+| `opencode.json` | Permission rules for OpenCode: it asks before each edit and each command, and it cannot push |
 | `CODECHECK.md` | How another pair tests this project |
 
 ## How to run
@@ -31,6 +32,15 @@ All data are synthetic. They describe no real person.
 4. Render `report.qmd`. The result is `report.html` and `report.docx`.
 
 Write the steps so that someone who did not work on the project can follow them.
+
+## Expected results
+
+Git ignores the rendered report. The checker compares the render with this section. Keep it up to date.
+
+- Number of patients in the analysis: [number]
+- Main result: [one sentence with the number that answers the question]
+- Table: [name or caption of the table in the report]
+- Figures: [name or caption of each figure in the report]
 
 ## Licence
 
